@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
-<img src="https://i.imgur.com/yCROHF0.jpeg" style="border-radius: 50%; border: 2px solid black; display: block; margin: 0 auto;" />
-
+<img src="https://i.imgur.com/elnmE7q.png" style="border-radius: 50%; border: 2px solid black; display: block; margin: 0 auto;" align="right" />
 
 ## GameMart | Introduction
 
@@ -11,8 +10,6 @@ purchase games, and build their digital gaming library. With convenient features
 adding funds and accessing purchase history. Additionally, GameMart extends its 
 support to game developers, facilitating the publication and sale of their 
 creations while providing tools for easy listing editing.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## GameMart | Tools & Technology
 
