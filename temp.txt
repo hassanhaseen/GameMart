@@ -1,4 +1,0 @@
-rIReA88mPdENfu0V
-
-
-mongodb+srv://hassanhaseen512:rIReA88mPdENfu0V@cluster0.avnf6cw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
